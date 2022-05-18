@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - permutive_flutter (0.0.1):
+    - Flutter
+    - Permutive_iOS (= 1.2.0)
+  - Permutive_iOS (1.2.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - permutive_flutter (from `.symlinks/plugins/permutive_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Permutive_iOS
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  permutive_flutter:
+    :path: ".symlinks/plugins/permutive_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  permutive_flutter: 7950e251ca2ddcb983eaa5dd2e53ce0090bb60ad
+  Permutive_iOS: 32c927d2592b3dd61dedf9b1f36f5001cfceff80
+
+PODFILE CHECKSUM: 7368163408c647b7eb699d0d788ba6718e18fb8d
+
+COCOAPODS: 1.11.2
